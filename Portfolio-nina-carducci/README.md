@@ -6,7 +6,7 @@ Projet 5 OpenClassrooms
 Ce projet est le portfolio en ligne de Nina Carducci, une photographe basée à Bordeaux. Il a été amélioré pour assurer une meilleure accessibilité, des performances optimisées et un bon référencement SEO.
 
 <div align="center">
-<img src="https://github.com/JonathanCornic/Portfolio-nina-carducci/blob/main/nina%20carducci%20preview.png">
+<img src="https://github.com/claude-openclassroom/Portfolio-nina-carducci/blob/main/nina%20carducci%20preview.png">
 </div>
 
 ## Fonctionnalités
@@ -43,12 +43,12 @@ Ce projet est le portfolio en ligne de Nina Carducci, une photographe basée à 
 ## Comment exécuter le projet localement
 
 1. Ouvrir un terminal : entrer `cd desktop`
-2. Clonez le repository : entrer git clone `git clone https://github.com/JonathanCornic/Portfolio-nina-carducci.git`
+2. Clonez le repository : entrer git clone `git clone https://github.com/claude-openclassroom/Portfolio-nina-carducci.git`
 3. Ouvrez le fichier `index.html` dans votre navigateur pour visualiser le portfolio localement.
 
 ## Comment voir le rendu hébergé
 
-1. suivez ce lien github pages https://jonathancornic.github.io/Portfolio-nina-carducci/
+1. suivez ce lien github pages https://claude-openclassroom.github.io/Portfolio-nina-carducci/
 2. suivez ce lien vers clouflare https://portfolio-nina-carducci.pages.dev/
 
 ## Comment me contacter
