@@ -53,6 +53,6 @@ Ce projet est le portfolio en ligne de Nina Carducci, une photographe basée à 
 
 ## Comment me contacter
 
-Si vous avez des questions, des commentaires ou des propositions de collaboration, n'hésitez pas à me contacter par [Mail](mailto:cornicjonathan@gmail.com) ou via mon profil [LinkedIn](https://www.linkedin.com/in/jonathan-cornic-024607262/).
+Si vous avez des questions, des commentaires ou des propositions de collaboration, n'hésitez pas à me contacter par [Mail](rasolorasolo@yahoo.com) ou via mon profil [LinkedIn](https://www.linkedin.com/in/claude-erick-rakotoarisoa/).
 
 Je suis fier d'avoir contribué à l'amélioration de l'accessibilité, des performances et du SEO du portfolio de Nina Carducci, et je suis heureux de partager cette expérience avec vous.
